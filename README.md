@@ -120,3 +120,5 @@ Solution: Try to add "3" after python if you have problems, like: python3 sniper
 <em>Problem: I have a problem when I try to install the requirements</em>
 
 Solution: Be sure to download and install **BuildTools C++** https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+##  Developer: [@Manokil](https://t.me/Rust0x_726)
