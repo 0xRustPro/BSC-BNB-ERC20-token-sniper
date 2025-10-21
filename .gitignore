@@ -1,0 +1,4 @@
+.env
+target/
+src/trader.rs
+src/listener.rs

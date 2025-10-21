@@ -1,0 +1,22 @@
+[package]
+name = "sniper-fourmeme"
+edition = "2024"
+version = "0.1.0"
+authors = ["https://t.me/gold_boris"]
+description = "Four.meme sniper & volume bot for BSC in Rust"
+keywords = ["bsc","binance","memecoin","sniper","rust","ethers-rs"]
+homepage = "https://x.com/goldborisdev"
+license = "MIT"
+
+[dependencies]
+anyhow = "1.0.100"
+chrono = { version = "0.4.42", features = ["serde", "clock"] }
+dotenv = "0.15.0"
+ethabi = "18.0.0"
+ethers = {version = "2.0.14", features = ["ws", "rustls"] }
+eyre = "0.6.12"
+futures = "0.3.31"
+futures-util = "0.3.31"
+serde = { version = "1.0.228", features = ["derive"] }
+serde_json = "1.0.145"
+tokio = {version = "1.47.1", features = ["full"] }

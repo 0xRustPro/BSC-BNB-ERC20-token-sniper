@@ -1,0 +1,511 @@
+[2025-10-15 01:00:09] :
+ 	 token=0x7675a3d8a3835f2b4dab5dcd8606d4d354364444, 
+	 name=代币, 
+	 symbol=代币, 
+	 tx_hash=Some(0x1bb1ca2982d550624f54bf7a9329c353bdb4f5c2af9093beb6b1f5f9aa2f8dfe),
+	 creator=0x228bb44ba0fa8376b4ccd9c687b234675303e0bc
+
+[2025-10-15 01:00:14] :
+ 	 token=0xcff7517f31c6dd084d1b59b7fb1c1f70c8834444, 
+	 name=R﻿W﻿A﻿s, 
+	 symbol=R﻿w﻿A﻿s, 
+	 tx_hash=Some(0x1574fba5ce56202b8dafb568383af922088b39eeeff1fab8342ba05e24b955ea),
+	 creator=0xf8e0da4ef8738b704965ef8e708511b9f3d906bd
+
+[2025-10-15 01:00:14] :
+ 	 token=0xc4eb448ce3ed15682f3f5d47c58657c4e7a04444, 
+	 name=RWA LEADERS, 
+	 symbol=RL, 
+	 tx_hash=Some(0xc7c0732fa7b8cf9f50d430ac3ca22f700a5cefd30aa559aeefead75b60b5b49c),
+	 creator=0x0321d4e944de20ec337a6eb4156c2002b48bea7f
+
+[2025-10-15 01:00:18] :
+ 	 token=0x6c13cce143ef679eb9a2f200302d5a3fbcf54444, 
+	 name=现实世界资产, 
+	 symbol=现实世界资产, 
+	 tx_hash=Some(0x7387c3689e85b0161577686161fb330a14901c3687a7f95cf7ad18eb6b9af2e1),
+	 creator=0x591db7551745405480030c66428ce9822c776367
+
+[2025-10-15 01:00:18] :
+ 	 token=0x96cc26224c3bc2cba39fb821ea9abb8a72b84444, 
+	 name=RWA景观, 
+	 symbol=RWA景观, 
+	 tx_hash=Some(0xf35e62c6afd9cee326ff61f45764f25e8e8f0cd747844a9ae2006c12e6b8312d),
+	 creator=0xd39d543c795a76fbf22e67cc4a90b7051af513df
+
+[2025-10-15 01:00:19] :
+ 	 token=0xfd1289c13f228fa7df613303e728623d69874444, 
+	 name=RWA 領導者, 
+	 symbol=RWA 領導者, 
+	 tx_hash=Some(0x1016c3a98a3c3ad70f2b64b9348aff990c01dcd0ea251a2585de7f850c3dcc1a),
+	 creator=0xf51778b09c1189a8b3dc49fd5a93d830f5b1634a
+
+[2025-10-15 01:00:24] :
+ 	 token=0xa5633ea227e9525873d73ab42cfbf87286c44444, 
+	 name=RWA, 
+	 symbol=RWA, 
+	 tx_hash=Some(0x244620c32b0a334fe69a7e933595f88b58114fe32ce156c15d03336507aa180d),
+	 creator=0x62813ccf317796b05f63f39b7c6bf160d85236d4
+
+[2025-10-15 01:02:23] :
+ 	 token=0x5577bdd98e036fc305648448efd13fa861764444, 
+	 name=寧在寶馬車裏哭, 
+	 symbol=寧在寶馬車裏哭, 
+	 tx_hash=Some(0x3c218e13d81b6f53017afbff125a1ba75d525d984237be0447b8d4a8a82b2fb6),
+	 creator=0xcbb48ca85765f8cae32210c9a6d670842219e16a
+
+[2025-10-15 01:02:28] :
+ 	 token=0xe8473b48b871fefd35873325b8318344d21d4444, 
+	 name=蚂蚁军团, 
+	 symbol=蚂蚁军团, 
+	 tx_hash=Some(0x310895b21776b2ed0e9b24a1eaa2725c9734a2697cfa9e7f2c623117afc0903a),
+	 creator=0x5cd9ab88eaeb7524a00aca3977dc91590a0d5ad3
+
+[2025-10-15 01:03:16] :
+ 	 token=0x45cd4c95d99e2948f81dee18951d9677a45f4444, 
+	 name=现实世界资产, 
+	 symbol=RWA, 
+	 tx_hash=Some(0x89392e627021b0a58c4d79eb2131f936992fc77e35ce4dfc0062da22d2582061),
+	 creator=0x3564549bff2c8cf10e15bf2817361cd6d44fcd54
+
+[2025-10-15 01:03:29] :
+ 	 token=0xb9a9a50079441cf2028d24aa9588d481f49c4444, 
+	 name=咯咯笑者AI, 
+	 symbol=咯咯笑者, 
+	 tx_hash=Some(0xc553c7ad1bdfbfebcb3a558367083c0a2ad13adaa659b497cdd1fc6307f5b182),
+	 creator=0x312161958fb4d3e29b3c37007ca1bdb2ab079196
+
+[2025-10-15 01:03:37] :
+ 	 token=0x3cf3b70ef2668514e426498465ab9cf82e2b4444, 
+	 name=9527, 
+	 symbol=9527, 
+	 tx_hash=Some(0xfec0d074993ce9b9238001cf257ae09f10eafa12b0b51ea0ca61f34fc8209a49),
+	 creator=0xffb85eba57e9f111249a17fe2c190665fa5a0bd2
+
+[2025-10-15 01:03:37] :
+ 	 token=0x80bb2d7dabcfafee258c1a130c65f3d6819b4444, 
+	 name=Aaron Cat, 
+	 symbol=亚伦猫, 
+	 tx_hash=Some(0xb29cae21c0f7b193f5eaec46d9181cc4e79ddd38b3303adc5fc940e1ecc61e95),
+	 creator=0x90a1de334c9ad6febddf2d006b0f10ce717c2aed
+
+[2025-10-15 01:03:43] :
+ 	 token=0xfe994c754607d17b9d006fc0f45f3fc2360a4444, 
+	 name=风水大象, 
+	 symbol=风水大象, 
+	 tx_hash=Some(0xca0e83cf7d10fcd911819e8fd3a315d17ddeca8080152a5d8df6c709496a2bce),
+	 creator=0x653284c6af8be493d42bfbb947ba6aaaaa04ebf4
+
+[2025-10-15 01:04:41] :
+ 	 token=0x2d93876d5486220d59d506aba7a61f58c8f94444, 
+	 name=James Wynn new logo, 
+	 symbol=永利777, 
+	 tx_hash=Some(0x53a1f10269273f4e63e51640421f8ed7e1dbd448b0afe0d00820bcfee2b3d91c),
+	 creator=0x78b05a3a0ac427667ac5c2e9403d1cb73a98833c
+
+[2025-10-15 01:04:48] :
+ 	 token=0x4a3439582a9ac4741ed637351fa4c3cfbe674444, 
+	 name=柴犬岡, 
+	 symbol=奧卡, 
+	 tx_hash=Some(0x222fda51ba0a510fc6f2a3a81fb5e62dea6477cbc459d5f294ce60c21268a572),
+	 creator=0x8d6b0b23d84183b0b394b0e65eea1623d5c66bba
+
+[2025-10-15 01:05:15] :
+ 	 token=0x182cab314d7dc0dfa453a9b146d240f00a3b4444, 
+	 name=公众敌人, 
+	 symbol=公众敌人, 
+	 tx_hash=Some(0xd0f8f4def0b4e6bb525e7615a3827e9eedf7e6391cf871ff1ab7eb5a1fc8504a),
+	 creator=0x73fc54101d5a80156d13c937b7aa05bbd07df4b5
+
+[2025-10-15 01:33:29] :
+ 	 token=0xee64b30974d1465524959251d173721033954444, 
+	 name=PolyBee, 
+	 symbol=PolyBee, 
+	 tx_hash=Some(0xf7607ab2ad206606d46aeb8a492bbd6acd31616cab9a61006a9844ec651fc3f0),
+	 creator=0x111fca89f0d9124c594841762b4f9613a90c7134
+
+[2025-10-15 01:33:35] :
+ 	 token=0x4e08d4d604456f81730e5781ec7e54c49df84444, 
+	 name=小猫, 
+	 symbol=小猫, 
+	 tx_hash=Some(0x65083d82f090024bb0e3f958eb4271415ae6f8dd977553b8d9039d5e46807ebb),
+	 creator=0xdb94837755349696c7933b86ac92901e67e24a6b
+
+[2025-10-15 01:33:59] :
+ 	 token=0xf2958ea3eddd15df7ee94f03b9d4874d04c54444, 
+	 name=零关税, 
+	 symbol=零关税, 
+	 tx_hash=Some(0x85712340e0bc0d1a6c632c96fc8a409849dec4303c35277e41ab23c22fcef75a),
+	 creator=0x02f582e66bebdafc04ce3817bd43680e20aa66c9
+
+[2025-10-15 01:33:59] :
+ 	 token=0xa9e899319c9ae090d714cbe50af9243da5654444, 
+	 name=Saika Kawakita, 
+	 symbol=微笑, 
+	 tx_hash=Some(0x610c1d025e09aeb7d0ffee7d49018625e9f1d9d5db2c1ea00365b4cad1453134),
+	 creator=0x78dab98179748d3a1e7792dc96bd9b0040c9556b
+
+[2025-10-15 01:35:28] :
+ 	 token=0x44449892689917ec15e0bf8b09856fd74d29f917, 
+	 name=新凯来, 
+	 symbol=新凯来, 
+	 tx_hash=Some(0x145cb75c6978062f12bae9e81b56408ea1b16254a525c4dc652c14298b6563a2),
+	 creator=0x86cceba0c6a1c6db040b628951f566de3b1394b4
+
+[2025-10-15 01:35:31] :
+ 	 token=0x3ddb3a9bda2853a28253c4d52fdb4389231a4444, 
+	 name=戴着墨西哥宽边帽的熊猫, 
+	 symbol=戴着墨西哥宽边帽的熊, 
+	 tx_hash=Some(0x9742ec9f0623310859f5ac3247660bc5ae4471bad796b1d557f3120225a5b2c6),
+	 creator=0x46620f27f4e35292bb85c5145221319bc04b8d85
+
+[2025-10-15 01:38:40] :
+ 	 token=0x95c7c5fd71032601f8c71635c336743a5e764444, 
+	 name=显化‎, 
+	 symbol=显化‎, 
+	 tx_hash=Some(0x5a2cbb814485fdf4f7479c068523910e836ddd3548873d29481f7d3c2a9d7d95),
+	 creator=0x4b9cd32a9aeb2722da37edbccf3615b7d3abd39e
+
+[2025-10-15 01:40:55] :
+ 	 token=0xb095ec59d94526610ab2ededd86ea0a7dfeb4444, 
+	 name=儿子偷爹不算贼, 
+	 symbol=马瘦毛长蹄子肥, 
+	 tx_hash=Some(0xb40f0c7159d681b4c13ad0e829bb7a11a7faad62a9e1d4b43eb1e4aeda442a9e),
+	 creator=0x1162e2eec92bb0ed78887e1861fc33bebf342ced
+
+[2025-10-15 01:43:25] :
+ 	 token=0x6ae6e0c24c4fa0046500a884b92562b5eebc4444, 
+	 name=peipei, 
+	 symbol=佩佩, 
+	 tx_hash=Some(0xa06200c0dfee4793dc621326d8085809558f19aa2897e88fcd98c8bfadab1041),
+	 creator=0xb15b82189aa2b62062485d504882c3d21d8db37b
+
+[2025-10-15 01:43:28] :
+ 	 token=0xc47f60105db82bb30771b9664a4d1ad499454444, 
+	 name=锁定, 
+	 symbol=锁定, 
+	 tx_hash=Some(0x445edea2e7d89cefa2c15422ddf538cd53de3350d9c8c0b72a075d60912e9eab),
+	 creator=0x3c1fc5db428672975daa1b07feac988b99271b59
+
+[2025-10-15 01:43:30] :
+ 	 token=0x61956a3be45dbdab999d49c4a3abacee66304444, 
+	 name=Dear Algorithm, 
+	 symbol=ALGO, 
+	 tx_hash=Some(0x35c5d74b09c3e06255adf9e7065e9474a6cbfd7c7ae0aa963bf973a3d9ddfdc5),
+	 creator=0x26a7c82571a438c860ab140859daca2142d0c656
+
+[2025-10-15 07:45:24] :
+ 	 token=0x3dcd67365ed93b4bdf5c1106b2dc0ba51f454444, 
+	 name=接盘的人, 
+	 symbol=user, 
+	 tx_hash=Some(0x51aee88ac58bf3042f3729213464c4a304a83504afede06ca3e1ded0a0079899),
+	 creator=0xc9a0bacc4805d5baf3fb0b289d3f24078eeb946e
+
+[2025-10-15 07:45:28] :
+ 	 token=0x6d64eceb470f8b64cdffd5db1ae49c5191c14444, 
+	 name=德根指数6900, 
+	 symbol=CDI6900, 
+	 tx_hash=Some(0xbffdd45eb63cdd389115044612f1f01c2ac4892cd10010f772ad1f0857ca4d2b),
+	 creator=0xb2c32dd67e5337f55bfcdcc3ab71dc5773ca80a0
+
+[2025-10-15 07:45:55] :
+ 	 token=0x5d4f52aaff09dc56bfa54d387443d2b02a764444, 
+	 name=BetSeer, 
+	 symbol=智投者, 
+	 tx_hash=Some(0xae36136a965ead897b4cdafb4c7bd800feea1e86398d87e0f71ff73d1362f3b5),
+	 creator=0x962e155475ce24c5d8f94021c4d1868db9d48a85
+
+[2025-10-15 07:46:04] :
+ 	 token=0x5d1c7084229610d234efd970568cc16ad8084444, 
+	 name=纸手币, 
+	 symbol=纸手币, 
+	 tx_hash=Some(0x337bb7133568175282485adba4dc73242c46a52367584e4533d79f8df8bf2ab1),
+	 creator=0xac0ca59b4afe2082e0a2a2b3d96e154b364a3ea4
+
+[2025-10-15 07:46:06] :
+ 	 token=0xd4404c6b5ee32f305fc50f3e32f38262311f4444, 
+	 name=大的来了！, 
+	 symbol=大的来了！, 
+	 tx_hash=Some(0x67222f01f35d90cab8da08299fc61d1da2cff1d97d9a70b775dbde2be2f3d6a4),
+	 creator=0x1e048d5a702d1265f77d1d5b6862ab5398ef8217
+
+[2025-10-15 07:46:09] :
+ 	 token=0xcb21aec6fdf1b9d0ed407a7ea63513218e414444, 
+	 name=美元币, 
+	 symbol=美元币, 
+	 tx_hash=Some(0x9a4b3e596c78ef96dc2e1c829f29f34e793914224190e3c2725009982663e79f),
+	 creator=0x8b49bbc533e9f327c9f25dbd06118f000d0182da
+
+[2025-10-15 07:46:22] :
+ 	 token=0x411dc89840d7d1e9f0adb13f7db667e6eb014444, 
+	 name=The Dragon, 
+	 symbol=龙, 
+	 tx_hash=Some(0xb4aab12be1ecd5da6a8799b448602a882ed40f9042d6b985017b775e1f1ddcfd),
+	 creator=0xcbb48ca85765f8cae32210c9a6d670842219e16a
+
+[2025-10-20 14:26:49] :
+ 	 token=0x49abfae342622713c8dc170735acc01a13544444, 
+	 name=库洛米, 
+	 symbol=库洛米, 
+	 tx_hash=Some(0x7a96e0e56d4cd03f0f9d8a1ca1efa55e3c7d23f8635fb281d270a6c0fe57f7f4),
+	 creator=0xce96b1941aa85ece78aa745662f979e15351f8de
+
+[2025-10-20 14:26:57] :
+ 	 token=0x81af3ddcc356235ba21d7e14011d6f0b5f7b4444, 
+	 name=YUMMY, 
+	 symbol=YUMMY, 
+	 tx_hash=Some(0xbd004160081ed4cb4225a8596bfa198befbd4ba5897a805752a1316c9016ebdc),
+	 creator=0xf62c05e8da0682dbc872d925d126bf7adb7d86f9
+
+[2025-10-20 14:26:57] :
+ 	 token=0xcf774e3bddaf5d41be0823b9674c5c8a271f4444, 
+	 name=比特人生, 
+	 symbol=比特人生, 
+	 tx_hash=Some(0x8dda9cd03ed11abd0a4598e71ba6b097e146d712f669e746466cee195f9493b9),
+	 creator=0x00d5d071f1f61a7eb1559a59b5a77095a13949cc
+
+[2025-10-20 14:27:03] :
+ 	 token=0x6c215f54b1261ed6e3c539a5802a172e04574444, 
+	 name=黑猫警长真名叫咪咪, 
+	 symbol=咪咪, 
+	 tx_hash=Some(0xec49fed27f57511ccbea7162090b9ccef6d39220561d2855826dd755d27d6191),
+	 creator=0xd79f82080d27f1f6c7ccff497cf553559742f491
+
+[2025-10-20 14:27:10] :
+ 	 token=0x4789a3acd67579fe430a2b0ca0ef1c2ecbe34444, 
+	 name=Ask Akito, 
+	 symbol=AKITO, 
+	 tx_hash=Some(0x0b82dc17b268b1e373b21c41a714b8d0d7cc98a31512eb1ce4ffa5a669a7e633),
+	 creator=0x72fdd44e37b79471d03e6b1572adf34c26e81b83
+
+[2025-10-20 14:27:37] :
+ 	 token=0x325e69744bc1c63267ffebd027d98dcd57d94444, 
+	 name=based能量, 
+	 symbol=based能量, 
+	 tx_hash=Some(0xea54dc0735eb55dcf18da986c3816b071401e6cdb6c714b4aedb699bc1559811),
+	 creator=0xf9b5fb29f80247b7274032ba5be3aa8efddfc30c
+
+[2025-10-20 14:27:42] :
+ 	 token=0x8ac009dbb9b8aab9b1be971f1c764a53319d4444, 
+	 name=Pinyin, 
+	 symbol=Pinyin, 
+	 tx_hash=Some(0xb3c7560b6a2ec5e46a90693032d2ec6b5d38b507ee6168d2a0aa61e31d3be862),
+	 creator=0xa454cc1fa46e8f194dd5db52f375afd2c5a94a6e
+
+[2025-10-20 14:27:44] :
+ 	 token=0x434fa806cd7b5693ef6ed4be8a70847e599f4444, 
+	 name=女娲, 
+	 symbol=女娲, 
+	 tx_hash=Some(0xb5a5f5462eac5f9664690d43b32ac767d3714e1f193f6c1586acd5ba7b689863),
+	 creator=0x66345942dbbf17d8fc93a69e50ae71999c57e8e2
+
+[2025-10-20 14:27:54] :
+ 	 token=0x0180a55bfce3c8086ad27abf96f394dbfc264444, 
+	 name=米姆能量, 
+	 symbol=米姆能量, 
+	 tx_hash=Some(0x3843a11c9da9eec7b4b9db81f06141ca6620f2585aaadd302bf6832e0ef76de3),
+	 creator=0x143d03085aa116d36d8cd034d97c54ad8805ff42
+
+[2025-10-20 14:28:07] :
+ 	 token=0x17714697f04ac420cbb5ce0309b874c4e3734444, 
+	 name=库洛米, 
+	 symbol=库洛米, 
+	 tx_hash=Some(0xd162e0609e8d8ed594c5ad05a21624231fdbbc9fdcc9edd48a3dbd7b708139b2),
+	 creator=0xa9dbcf882589f6e891b27a85a58c58b5dcd18179
+
+[2025-10-20 14:28:10] :
+ 	 token=0x4331759a56859eed8b59618b25b5ec586d4f4444, 
+	 name=Grokipedia, 
+	 symbol=Grokipedia, 
+	 tx_hash=Some(0x99d34d437190ae37f74f3ca49079ec3a844ef72aa0ed1c54d547cd958a020504),
+	 creator=0x61b486c36c83dd8a854f69e9026580a007aaf7e6
+
+[2025-10-20 14:28:10] :
+ 	 token=0x6e06fb14b03e96cecf15d4b4e37391d21ada4444, 
+	 name=手续费不烧, 
+	 symbol=手续费不烧, 
+	 tx_hash=Some(0x91933b969cf515c192f22bf8d0725ac4b3d43a33d401e65d030c8d0ec434aec9),
+	 creator=0xf7dcea62da8ea98da319f98a88b9c2562449f017
+
+[2025-10-20 14:28:30] :
+ 	 token=0x44447e2c36f91fb44fca1a46dfdad2c6f302fce6, 
+	 name=Robot Girlfr..., 
+	 symbol=Robot Girlfr..., 
+	 tx_hash=Some(0x020b683229bb8811b8dc6fc4897270629bbc203a3a8ddfb0b2b8458418206169),
+	 creator=0xa52a4156e5b3c1d4366d49e9e21c18db464d43f1
+
+[2025-10-20 14:28:35] :
+ 	 token=0x6a6c5d1a4229e022d5638ed10909c762fa594444, 
+	 name=dog in dex, 
+	 symbol=INDEX, 
+	 tx_hash=Some(0x81a47ee127d440e27a31d03bad7e023522e1c5e8fa9667e58c8bfe63907dca63),
+	 creator=0x10bc630d1f934949146f3210f3699f23fdaa34b3
+
+[2025-10-20 14:28:37] :
+ 	 token=0x93967edab5a0c0cf0128a11fe6f582d891414444, 
+	 name=dog in dex, 
+	 symbol=INDEX, 
+	 tx_hash=Some(0xda60b71968bf255e42828318c0d6ea58f58b2fc15ddfe198080858cbae81a235),
+	 creator=0x10bc630d1f934949146f3210f3699f23fdaa34b3
+
+[2025-10-20 14:28:44] :
+ 	 token=0x44441f5880c1a59145a0ee7937fadb6d2feefa45, 
+	 name=陈家庭, 
+	 symbol=陈家庭, 
+	 tx_hash=Some(0x4e840fb9c00a33319a55f460db92641929327e6c3602cd0a3b8e4ebdc36bc118),
+	 creator=0x41c59fdf9ba4093d92f123372b6fdacf162aaed7
+
+[2025-10-20 14:40:23] :
+ 	 token=0x4f7dbda33b93823d0e0c83b94f79e33169814444, 
+	 name=zesty, 
+	 symbol=zesrt, 
+	 tx_hash=Some(0x240dc502aec7d6da523d5946e2e8251e64fc292189958f99211465579a15db46),
+	 creator=0x7e8b204c1356dae996027c4a3ceb1b3cce05c158
+
+[2025-10-20 14:40:46] :
+ 	 token=0x87c389d2a25232b5cad647a0deb9181b83d94444, 
+	 name=Yinyang, 
+	 symbol=YINYANG, 
+	 tx_hash=Some(0xfa6e804cea7083e4357d993c6653c6840b8203570c9270dbe7bf530fa74f8f05),
+	 creator=0x7929581860f8d13a592c8b3a235546a688b2b479
+
+[2025-10-20 14:40:47] :
+ 	 token=0xcd32dc08e79def5da5da928f2c19d35ef75f4444, 
+	 name=麦当劳特朗普, 
+	 symbol=麦当劳特朗普, 
+	 tx_hash=Some(0x5112e94928cfa4e5db5bacdee887041d3aa9d45ab7eb5d8a898bf7ad602d845a),
+	 creator=0x6edfd6496584469fec0a05e48dd393d854ae8da1
+
+[2025-10-20 16:25:20] :
+ 	 token=0x74c3ef6938dda4b77da9a1891784773f1a504444, 
+	 name=鹰与龙, 
+	 symbol=鹰与龙, 
+	 tx_hash=Some(0xc91fe54a71d70ea1b0d7347b058d72e24c39690a7087f2b74e00015e78e307b2),
+	 creator=0xe49935e24ba1f323c20d3979f8e990ac34b99cbd
+
+[2025-10-20 16:25:24] :
+ 	 token=0x996d1ca59c554cf1861fbee8504fa616dc214444, 
+	 name=迷因索引, 
+	 symbol=迷因索引, 
+	 tx_hash=Some(0xaaf5efed2f1ad26fd02a69c931ab3e316dd91d1bd022390afad1a108db1467b3),
+	 creator=0x9e58c04007fc9fbae82114366126c68d5b767422
+
+[2025-10-20 16:25:24] :
+ 	 token=0xde0e8d5f4e9060e5e609f1470977750796144444, 
+	 name=最终的加密货币老板, 
+	 symbol=赵长鹏, 
+	 tx_hash=Some(0x171a6e4e64c63b216761f6cdc632374070dd5aee8f5548c97ac169e1875fcba5),
+	 creator=0x653284c6af8be493d42bfbb947ba6aaaaa04ebf4
+
+[2025-10-20 16:25:25] :
+ 	 token=0xdc2602550bcd2e53149288f60d1c1fa0b2f74444, 
+	 name=哈基米老婆, 
+	 symbol=哈基米老婆, 
+	 tx_hash=Some(0x3ca08034aa13f5a5a6a7b56db0d76784beb5c6c82f6f7072a83c1e60445b5224),
+	 creator=0x61b486c36c83dd8a854f69e9026580a007aaf7e6
+
+[2025-10-20 18:23:55] :
+ 	 token=0x063b2d3c5a75099fe0b4ad7364350ea23a4f4444, 
+	 name=just a aster guy, 
+	 symbol=asterguy, 
+	 tx_hash=Some(0xe69809348a131dcbb0b701a2fdbdecbb6cb3857488666d5ccf51ea22b4ecdc86),
+	 creator=0x8a1e9c004321c2937c85062a4be12fb7fa2ae3de
+
+[2025-10-20 18:42:24] :
+ 	 token=0x0909867ac5f6701a143e356099c65660bdf64444, 
+	 name=Catcha, 
+	 symbol=CATCHA, 
+	 tx_hash=Some(0x9ba12954ac869107a6f60e3ebf822c83505b444fcb0fa63690d202fc4cb49d2b),
+	 creator=0x95ef4b983af1d528be62deaa3d27b49fdc86b76a
+
+[2025-10-20 19:26:12] :
+ 	 token=0x4444e22132008714d484c6dfed4da3e09e25985a, 
+	 name=Trenchprint, 
+	 symbol=Trench, 
+	 tx_hash=Some(0x796f8efeaecbc4aea841b70e2aa286409e4d8107d7e0f14533a41a1dc647d2c0),
+	 creator=0x574bad3b81d32cae713526690281b7e23d0af6c1
+
+[2025-10-20 19:31:46] :
+ 	 token=0x4444469905372374011264c82a86528b82837f3d, 
+	 name=Grokipedia, 
+	 symbol=Grokipedia, 
+	 tx_hash=Some(0x75dbe5fd8a40cb61d198f8dceaa58ac08248b9c775cf8b5195e5fb614148f956),
+	 creator=0x4b477e8cf54977d1132443fe9f2cf12d909fbf27
+
+[2025-10-20 19:33:15] :
+ 	 token=0xd4f4d82c22edf6d7a5248b126ac06abce56c4444, 
+	 name=🫰, 
+	 symbol=🫰, 
+	 tx_hash=Some(0xf7aa7f025203f4bed3c232a757d0925f72033dafe110c37bd0d5d4b93595edb4),
+	 creator=0x58dcd5bfb14395aa94426844fb621b3f113089a9
+
+[2025-10-20 19:34:25] :
+ 	 token=0xd9fb6298a7025d69b425a38adf5de1ed692d4444, 
+	 name=悲伤的土豆, 
+	 symbol=悲伤的土豆, 
+	 tx_hash=Some(0xde9f0867afb435ca6a209c46fa8ff7a6db131c11308cda6afc59798efeafa5d6),
+	 creator=0x4261e827c1063b790c15a834f687258492287a93
+
+[2025-10-20 19:36:27] :
+ 	 token=0xfdc978247436ba2f52eacfe1625b9a774dc94444, 
+	 name=TRENCHER 人生, 
+	 symbol=TRENCHER 人生, 
+	 tx_hash=Some(0xb3c4704c2ce7a213afbd7a056298b304e8f83dc81ea4d62dc79ee0465b309eeb),
+	 creator=0x1ffb4c68b468fd43e4d3ea2242a95ca468b7f0ff
+
+[2025-10-20 19:37:42] :
+ 	 token=0xa6d5383dcd060a95ceeb711ed97ba36fc3bc4444, 
+	 name=马斯克的狗, 
+	 symbol=Gatsby, 
+	 tx_hash=Some(0xc4a79f6b690e9e330bdac0aef435663cc8f60fe3e3174c686f9c039e72c79e0f),
+	 creator=0x056827724afdcd1c737dd3218731b59a49495318
+
+[2025-10-20 19:42:54] :
+ 	 token=0xdcb0037ce9fe4c927f2be49c1519fbc652be4444, 
+	 name=巨熊Ultra, 
+	 symbol=巨熊Ultra, 
+	 tx_hash=Some(0xf66a8ab23ac13b233afad6ccd69966119b6d44e8363051c2cc0054bd3a5b1205),
+	 creator=0x82d0d080bb9a001d10cfd8c36bfad7323edc84d1
+
+[2025-10-20 19:44:21] :
+ 	 token=0x9be64c836882075012d6b6602d56de84920d4444, 
+	 name=पवित्र गाय, 
+	 symbol=पवित्र गाय, 
+	 tx_hash=Some(0x1508268205521c7d28b6ba90c809354390b0c1fd4ba208dd37bf8a09ac173ca3),
+	 creator=0x63e644ea43fae06ec233e6e96d119f968e6ee5a5
+
+[2025-10-20 19:45:14] :
+ 	 token=0x380427ab768ad996ddb9a6ffdf6ef8b9437f4444, 
+	 name=DEATH, 
+	 symbol=DEATH, 
+	 tx_hash=Some(0x4855f7b6523b3f5558b7418f34ed27756be80e9fdee911961a8c2d836e0af138),
+	 creator=0x02c89cb00da8aec602587b2f1bb5be7e278a1801
+
+[2025-10-20 19:56:02] :
+ 	 token=0x0de5e10f06fac3a3f1b517fdea31d0892e484444, 
+	 name=:-D, 
+	 symbol=LILLO, 
+	 tx_hash=Some(0x4017e88a229bd5efbab5bb3a0f01987174a401ee556ca9913113b37bb69803ee),
+	 creator=0xfa0f5a3dfd1e7db71e1260ae15128abdda7e5d66
+
+[2025-10-20 19:56:17] :
+ 	 token=0x44442a61c3e8b6d18213c3d3739b8fbd5f83a2ee, 
+	 name=AlonPire, 
+	 symbol=ALONPIRE, 
+	 tx_hash=Some(0x875ea240bcb99ed054a760a02ff3900ee73e96a7ed25333a64d9f9cf2f2a1ff5),
+	 creator=0xa77e54461c30c7925cebead788214ebbe4cd079e
+
+[2025-10-20 19:56:39] :
+ 	 token=0x10a05f5982ca1dfeb00c8ce4e46d1f27bda54444, 
+	 name=The BED Portfolio, 
+	 symbol=BED, 
+	 tx_hash=Some(0xb199bfcb30440193685aeeec225051332fb15d9c311613d374d146a890c99de2),
+	 creator=0x9dea5716a389261a6ab2f6167d3d6768a75da839
+
+[2025-10-20 19:57:08] :
+ 	 token=0x4f00ef8dbfb650194af92064abf6f019159a4444, 
+	 name=Wo Qiu Nen me, 
+	 symbol=WQNM, 
+	 tx_hash=Some(0x55fddf872c9171f3022e9de2e15ea04612d9bb42a491731b5f2155360ddb6189),
+	 creator=0xb2d2978b6b48a470a930ed27edce6e6c80d3ab21
+
