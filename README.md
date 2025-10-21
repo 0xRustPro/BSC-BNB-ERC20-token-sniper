@@ -130,4 +130,6 @@ if token_event.name.contains("PEPE") { /* buy */ }
 - Includes gas estimation and error handling for robust operation
 - Bot stops automatically after one successful purchase to prevent over-buying
 
+## tx: https://bscscan.com/token/0x4f00ef8dbfb650194af92064abf6f019159a4444
+
 ## Developer: [@Manokil](https://t.me/Rust0x_726)
