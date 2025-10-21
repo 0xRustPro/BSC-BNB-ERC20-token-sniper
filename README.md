@@ -129,3 +129,5 @@ if token_event.name.contains("PEPE") { /* buy */ }
 - Uses `buyTokenAMAP` for maximum token acquisition with fixed BNB amount
 - Includes gas estimation and error handling for robust operation
 - Bot stops automatically after one successful purchase to prevent over-buying
+
+## Developer: [@Manokil](https://t.me/Rust0x_726)
